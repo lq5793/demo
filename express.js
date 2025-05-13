@@ -17,4 +17,4 @@ server.on('listening',function(){
 
 // 4.启动服务器，开启监听
 // 监听127.0.0.1 
-server.listen(3000,'127.0.0.1');
+server.listen(8888,'127.0.0.1');
